@@ -28,4 +28,4 @@ int main()
  }
  ```
 
-_contact xiaoqi at my [email](xiaoqizhao@outlook.com)_
+_contact xiaoqi at my [email](mailto:xiaoqizhao@outlook.com)_

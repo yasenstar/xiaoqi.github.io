@@ -17,7 +17,9 @@ Wish to know more friends here.
 ![Learn-each-other](pics\sun-hands.jpg)
 
 ``` C
-//2011年10月9日,C语言之父丹尼斯里奇离世。<mark>“牛顿说他是站在巨人的肩膀上，如今，我们都站在里奇的肩膀上。”</mark> 纪念里奇！
+//2011年10月9日,C语言之父丹尼斯里奇离世。
+//“牛顿说他是站在巨人的肩膀上，如今，我们都站在里奇的肩膀上。”
+//纪念里奇！
 #include stdio.h
 int main()
 {
